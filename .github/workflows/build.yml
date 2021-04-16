@@ -29,4 +29,4 @@ jobs:
     - name: yarn install
       run: yarn
     - name: build
-      run: yarn export
+      run: yarn build
