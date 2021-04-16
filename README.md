@@ -1,6 +1,6 @@
-# <h1 align="center" style="font-weight: bold; margin-top: 20px; margin-bottom: 20px;">Demo NextAuth NextJS</h1>
+# <h1 align="center" style="font-weight: bold; margin-top: 20px; margin-bottom: 20px;">NextJS: Server-side Rendering vs Static Generation vs Client-side</h1>
   
-<h3 align="center" style="font-weight: bold; margin-top: 20px; margin-bottom: 20px;">Guide setup NextAuth for Nextjs with Tailwind CSS</h3>
+<h3 align="center" style="font-weight: bold; margin-top: 20px; margin-bottom: 20px;">Guide using SSR-SSG-Client side in Next JS</h3>
   
 <p align="center">
   <a href="https://github.com/tampm92/tp-nextjs-ssr-vs-ssg-vs-client-side"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/tampm92/tp-nextjs-ssr-vs-ssg-vs-client-side/build"></a>

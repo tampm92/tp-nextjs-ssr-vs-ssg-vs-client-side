@@ -30,6 +30,7 @@ export async function getStaticPaths() {
   return { paths: [], fallback: true }
 }
 
+// This function runs at build time on the build server
 export async function getStaticProps({ params }) {
   const product = await fetcher(`http://localhost:3000/api/products/${params.slug}`)
   return {

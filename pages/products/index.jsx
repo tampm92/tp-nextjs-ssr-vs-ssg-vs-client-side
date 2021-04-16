@@ -25,7 +25,7 @@ const ProductsPage = ({ products }) => {
 
 export default ProductsPage
 
-// This function runs at build time on the build server
+// This function runs at request time on the server
 export async function getServerSideProps() {
   const products = await fetcher('http://localhost:3000/api/products')
   return {
