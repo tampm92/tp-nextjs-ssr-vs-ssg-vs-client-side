@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-ssr-vs-ssg-vs-client-side",
+  "name": "tp-nextjs-ssr-vs-ssg-vs-client-side",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,8 +8,17 @@
     "start": "next start"
   },
   "dependencies": {
+    "lodash.samplesize": "^4.2.0",
     "next": "10.1.3",
+    "nprogress": "^0.2.0",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "swr": "^0.5.5"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.10",
+    "sass": "^1.32.8",
+    "tailwindcss": "^2.1.1"
   }
 }
